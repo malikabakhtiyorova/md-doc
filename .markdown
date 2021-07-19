@@ -1,8 +1,8 @@
-#Kod strukturasi
+# Kod strukturasi
 
 Biz o'rganadigan birinchi narsa bu kod blocklarini qurish
 
-##Ifodalar
+## Ifodalar
 
 Ifodalar harakatlarni bajaradigan sintaksis tuzilmalar va buyruqlar.
 
@@ -21,7 +21,7 @@ alert('Hello');
 alert('World');
 ```
 
-##Nuqtali vergullar:
+## Nuqtali vergullar:
 
 Nuqtali vergulni ko'p hollarda kod alohida satrda yozilganda yozmay qoldirish mumkin.
 
@@ -83,7 +83,7 @@ Bu boshqa holatlarda ham bo'lishi mumkin..
 
 Yangi satrlar bilan ajratilgan bo'lsa ham, ifodalar orasiga vergul qo'yishni tavsiya etamiz. Ushbu qoida jamiyat tomonidan keng qabul qilingan. Yana bir bor ta'kidlab o'tamiz - ko'pincha nuqta-vergul *qo'ymasdan qoldirish mumkin*. Ammo ulardan foydalanish *xavfsizroq* - ayniqsa, yangi boshlanuvchilar uchun.
 
-##Comments-Izohlar
+## Comments-Izohlar
 
 Vaqt o'tishi bilan dasturlar tobora murakkablashmoqda. Kod nima va nima uchun bajarilishini tavsiflovchi izohlarni kiritish kerak bo'ladi.
 
